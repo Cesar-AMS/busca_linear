@@ -1,0 +1,64 @@
+/* Estilo para o corpo da página */
+body {
+    font-family: Arial, sans-serif; /* Define a fonte utilizada no corpo do texto */
+    margin: 0; /* Remove margens padrão do corpo da página */
+    padding: 0; /* Remove preenchimento padrão do corpo da página */
+    background-color: #8bc549; /* Define a cor de fundo da página */
+}
+
+/* Estilo para o contêiner principal */
+.container {
+    max-width: 800px; /* Define a largura máxima do contêiner */
+    margin: 20px auto; /* Centraliza o contêiner na página */
+    background-color: #fff; /* Define a cor de fundo do contêiner */
+    padding: 20px; /* Adiciona espaço interno ao redor do contêiner */
+    border-radius: 5px; /* Adiciona borda arredondada ao contêiner */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Adiciona sombra ao contêiner */
+}
+
+/* Estilo para o título */
+h1 {
+    text-align: center; /* Centraliza o texto */
+    color: #333; /* Define a cor do texto */
+}
+
+/* Estilo para a entrada de texto */
+.input-group {
+    margin-bottom: 20px; /* Adiciona espaço entre os elementos */
+}
+
+/* Estilo para o campo de entrada */
+.input-group input[type="text"] {
+    width: calc(100% - 100px); /* Define a largura do campo de entrada */
+    padding: 10px; /* Adiciona espaço interno dentro do campo de entrada */
+    border: 1px solid #ccc; /* Adiciona borda ao campo de entrada */
+    border-radius: 3px; /* Adiciona borda arredondada ao campo de entrada */
+}
+
+/* Estilo para o botão */
+.input-group button {
+    width: 100px; /* Define a largura do botão */
+    padding: 10px; /* Adiciona espaço interno dentro do botão */
+    border: none; /* Remove a borda do botão */
+    background-color: #007bff; /* Define a cor de fundo do botão */
+    color: #fff; /* Define a cor do texto do botão */
+    border-radius: 3px; /* Adiciona borda arredondada ao botão */
+    cursor: pointer; /* Altera o cursor para indicar interatividade */
+}
+
+/* Estilo para a lista */
+ul {
+    list-style-type: none; /* Remove os marcadores padrão da lista */
+    padding: 0; /* Remove o preenchimento padrão da lista */
+}
+
+/* Estilo para os itens da lista */
+li {
+    padding: 10px; /* Adiciona espaço interno dentro dos itens da lista */
+    border-bottom: 1px solid #ccc; /* Adiciona borda inferior aos itens da lista */
+}
+
+/* Estilo para o item da lista destacado */
+.highlight {
+    background-color: #ffff99; /* Define a cor de fundo do item destacado */
+}
