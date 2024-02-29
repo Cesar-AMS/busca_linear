@@ -18,4 +18,4 @@ Este projeto consiste em uma implementação simples de busca linear em JavaScri
 
 ## Demonstração Web
 
-Você pode acessar uma demonstração web deste projeto [aqui](https://Cesar-AMS/busca_linear).
+Você pode acessar uma demonstração web deste projeto [aqui](https://Cesar-AMS.github.io/busca_linear).
